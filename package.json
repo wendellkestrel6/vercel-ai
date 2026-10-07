@@ -1,1 +1,1 @@
-{"type":"module","scripts":{"check":"tsc --noEmit"},"dependencies":{"@ai-sdk/openai":"latest","ai":"latest","next":"latest"},"devDependencies":{"typescript":"latest"}}
+{"name":"vercel-ai","version":"0.1.0","type":"module","scripts":{"check":"tsc --noEmit","test":"node --experimental-strip-types tests/route.test.ts"},"dependencies":{"@ai-sdk/openai":"^4.0.87","ai":"^7.0.131","next":"^16.4.0","zod":"^4.6.5"},"devDependencies":{"@types/json-schema":"^7.0.15","@types/node":"^22.20.5","typescript":"^7.0.2"}}
