@@ -1,0 +1,1 @@
+The route validates messages, uses an environment-backed key, and returns a text stream.

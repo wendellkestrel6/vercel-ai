@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"check":"tsc --noEmit"},"dependencies":{"@ai-sdk/openai":"latest","ai":"latest","next":"latest"},"devDependencies":{"typescript":"latest"}}
